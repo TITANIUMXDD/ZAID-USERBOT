@@ -63,7 +63,6 @@
 ### 🚀 Deploy Process
 - Click on the deploy button above and login to your [heroku account](https://heroku.com/login) .
 - Fill your values there.
-- If you don't know how to get config vars : [Please refer here](https://github.com/ITZ-ZAID/Zaid-Vc-Player/blob/main/sample.env)
 - Make sure you fill correct values.
 - Click on **Deploy** button.
 - Please wait till the app gets deployed on heroku. Deploying can take upto **2-3 mins**..
@@ -82,7 +81,7 @@
 - Click on the **More Button** present at top right corner .
 - Click on the **View Logs** button from the drop down menu.
 - You check your logs there!
-- Click on save button there at bottom to save your logs and forward it to us on [@Bot_Support](https://t.me/Superior_Support) if you face any problem
+- Click on save button there at bottom to save your logs and forward it to us on [@Bot_Support](https://t.me/TITANIUMCHATS) if you face any problem
 
 </details>
 
@@ -91,7 +90,7 @@
 <p align="center">🚀 𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐎𝐊𝐓𝐄𝐓𝐎 </p>
 
 <h4>Click the button below to deploy on Okteto!</h4>
-<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/ITZ-ZAID/ZAID-USERBOT"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
+<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/TITANIUMXDD/TITANIUM-USERBOT"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
 
 ##
 <p align="center">
@@ -100,10 +99,10 @@
 
 
 ```console
-Zaid@Windows~ $ git clone https://github.com/ITZ-ZAID/ZAID-USERBOT
-Zaid@Windows~ $ cd ZAID-USERBOT
-Zaid@Windows~ $ pip3 install -U-r requirements.txt
-Zaid@Windows~ $ nano main.py
+TITANIUM@Windows~ $ git clone https://github.com/TITANIUMXDD/TITANIUM-USERBOT TITANIUM
+TITANIUM@Windows~ $ cd TITANIUM
+TITANIUM@Windows~ $ pip3 install -U-r requirements.txt
+TITANIUM@Windows~ $ nano main.py
 ```
 
 <h3 align="center">
@@ -111,8 +110,8 @@ Zaid@Windows~ $ nano main.py
 </h3>
 
 ```console
-Zaid@Windows~ $ screen
-Zaid@Windows~ $ python3 main.py
+TITANIUM@Windows~ $ screen
+TITANIUM@Windows~ $ python3 main.py
 ```
 
 ### FULL CREDITS 💖
