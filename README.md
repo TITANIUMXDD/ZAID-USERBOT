@@ -2,7 +2,7 @@
 
 - A First Telegram Userbot Project With Multi Clients Based On PyroGram
 
-<p align="center"><a href="https://t.me/Superior_Bots"><img src="https://telegra.ph/file/9563b48195f2f1c62cc5e.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/Titanium_Xyz"><img src="https://telegra.ph/file/8cd2399c85c80fc534536.jpg" width="300"></a></p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 
@@ -10,7 +10,7 @@
 <p align="center"> 🅡🅔🅟🅞 🅢🅣🅐🅣🅢 </p>
 
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=ITZ-ZAID&repo=ZAID-USERBOT&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=TITANIUMXDD&repo=TITANIUM-USERBOT&theme=dark)
 
 <h3>ʀᴇQᴜɪʀᴇᴍᴇɴᴛꜱ 📝</h3>
 
@@ -48,7 +48,7 @@
 
 <p align="center"><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20Multi%20Client-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ITZ-ZAID/ZAID-USERBOT/tree/master"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/TITANIUMXDD/TITANIUM-USERBOT/tree/master"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
  
 
 
@@ -58,7 +58,7 @@
 <details>
     <summary><b> Detailed Heroku Depoyment Process » </b></summary>
 
-<img src="https://telegra.ph/file/97e6de197eba98d2caba5.jpg" align="right" width="350" height="700"/>
+<img src="https://telegra.ph/file/8cd2399c85c80fc534536.jpg" align="right" width="350" height="700"/>
 
 ### 🚀 Deploy Process
 - Click on the deploy button above and login to your [heroku account](https://heroku.com/login) .
